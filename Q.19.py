@@ -6,7 +6,7 @@ d. Find number of words in the given string'''
 def string():
     choice =int(input('''Enter your choice 
 1 = length of the string
-2 = maximum of three strrings
+2 = maximum of three strings
 3 = Replace every successive character with #
 4 = number of words in the string
 '''))
